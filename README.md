@@ -38,6 +38,9 @@ pytest --maxfail=1 --disable-warnings -v
 
 
 ## ⚙ CI/CD через GitHub Actions
+![image](https://github.com/user-attachments/assets/e638022f-d212-4918-b821-97bf2462417f)
+
+
 ```sh
 ├── 📂 app/
 │   ├── main.py            # Код Streamlit-приложения
